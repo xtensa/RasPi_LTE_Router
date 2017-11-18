@@ -1,6 +1,8 @@
 # RasPi_LTE_Router
 This repository contains all files required to set up internet gateway on your Raspberry Pi with use of GSM/LTE Huawei E3372s modem. Internet connection is assumed to be provided by GSM modem and local network is assumed to be connected to Raspberry Pi ethernet port. 
 
+WARNING: please note, that these scripts will not work out of the box. Some adjustments are required.
+
 ## Prerequisites
 The following packages should be installed: usb_modeswitch, smstools3, wvdial.
 
